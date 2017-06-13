@@ -72,7 +72,7 @@ head
 		{
 			background:url(underwater.jpg) center;
 			width: 100vw;
-			height: 100vh;
+			height: 100%;
 			padding:20% 30%;
 			box-sizing:border-box;
 			display:flex;

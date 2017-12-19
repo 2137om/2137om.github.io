@@ -1,0 +1,14 @@
+What is data Science?
+Data Science is a field of extracting valueable leads from unorganized or undigested data. 
+
+Prerequisite for Data Science?
+I guess, a CS graduate or a mathematician/statistician who has worked on a lot of data modeling problems with large amounts of varied kinds of data (user-generated, machine-generated, time-variant, etc..) will qualify to be a potential data scientist.
+
+Skills required for Data Science?
+Solid knowledge of several statistical modeling and having a eye to identify which strategies relevent to a problem.
+Bieng able to work on big data like hadoop, hive, NoSQL databases etc.
+Programming language like Python Programing, R Language etc.
+
+Worry about above skills?
+
+In Bangalore, there are numbers of Data Science Courses available for beginners to professionals. They provide virtual to classroom training Programs.
